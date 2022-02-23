@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mamidala Sakethram
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Machine Learing and Artificial Intelligence
-- 💞️ I’m looking to collaborate on MNC companies
+- 👀 I’m the Data Science and Machine Learning Enthusiast
+- 🌱 I’m currently learning Machine Learing and Artificial Intelligence with Data Science
+- 💞️ I’m looking to make an intership and collaborate on MNC companies
 - 📫 Reach me at mamidalasakethram9@gmail.com or Instagram ID: sakethram_mamidala
 
 <!---
